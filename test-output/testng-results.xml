@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21334" started-at="2018-08-13T21:16:38Z" finished-at="2018-08-13T21:16:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21334" started-at="2018-08-13T21:16:38Z" finished-at="2018-08-13T21:16:59Z">
+      <class name="com.sscl.browserstack.TestBrowserStack">
+        <test-method status="PASS" signature="testSeleniumOnBrowserStackCloud(org.openqa.selenium.Platform, java.lang.String)[pri:0, instance:com.sscl.browserstack.TestBrowserStack@4501b7af]" name="testSeleniumOnBrowserStackCloud" duration-ms="20091" started-at="2018-08-13T21:16:38Z" data-provider="Browser_Data" finished-at="2018-08-13T21:16:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[WIN8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSeleniumOnBrowserStackCloud -->
+        <test-method status="PASS" signature="testSeleniumOnBrowserStackCloud(org.openqa.selenium.Platform, java.lang.String)[pri:0, instance:com.sscl.browserstack.TestBrowserStack@4501b7af]" name="testSeleniumOnBrowserStackCloud" duration-ms="16899" started-at="2018-08-13T21:16:38Z" data-provider="Browser_Data" finished-at="2018-08-13T21:16:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MAC]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSeleniumOnBrowserStackCloud -->
+        <test-method status="PASS" signature="testSeleniumOnBrowserStackCloud(org.openqa.selenium.Platform, java.lang.String)[pri:0, instance:com.sscl.browserstack.TestBrowserStack@4501b7af]" name="testSeleniumOnBrowserStackCloud" duration-ms="21259" started-at="2018-08-13T21:16:38Z" data-provider="Browser_Data" finished-at="2018-08-13T21:16:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[WIN8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSeleniumOnBrowserStackCloud -->
+        <test-method status="PASS" signature="testSeleniumOnBrowserStackCloud(org.openqa.selenium.Platform, java.lang.String)[pri:0, instance:com.sscl.browserstack.TestBrowserStack@4501b7af]" name="testSeleniumOnBrowserStackCloud" duration-ms="21281" started-at="2018-08-13T21:16:38Z" data-provider="Browser_Data" finished-at="2018-08-13T21:16:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MAC]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSeleniumOnBrowserStackCloud -->
+      </class> <!-- com.sscl.browserstack.TestBrowserStack -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
